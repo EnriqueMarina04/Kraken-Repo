@@ -1,0 +1,1 @@
+Hello, this is my first file on git kraken. I am trying to figure out how to use this, because git command line is too hard lol.
